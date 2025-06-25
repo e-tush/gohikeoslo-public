@@ -19,7 +19,7 @@ Visit the site: [https://gohikeoslo.web.app](https://gohikeoslo.web.app/)
 ## 📁 Project Structure
 
 ```
-gohikeoslo/
+gohikeoslo-public/
 ┌── public/                    # Static assets
 │   └──logos/
 │      ├──logo
