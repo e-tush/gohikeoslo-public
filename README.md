@@ -60,8 +60,8 @@ gohikeoslo/
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/dimassolt/gohikeoslo.git
-cd gohikeoslo
+git clone https://github.com/dimassolt/gohikeoslo-public.git
+cd gohikeoslo-public
 ```
 2. **Install dependencies:**
 ```bash
