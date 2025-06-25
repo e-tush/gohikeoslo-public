@@ -1,6 +1,6 @@
 # GoHike Oslo – Guided Hikes in Oslo’s Nature 🌲
 
-GoHike Oslo is a server-side rendered website for booking guided forest hikes in Oslo. Designed for fast performance, a clean user interface, and seamless booking integration, it is styled similarly to [GoSki Oslo](https://osloskikurs.no) (Squarespace) and optimized for both desktop and mobile devices.
+GoHike Oslo is a server-side rendered website for booking guided forest hikes in Oslo. Designed for fast performance, a clean user interface, and seamless booking integration, it is styled similarly to [GoSki Oslo](https://en.osloskikurs.no) (Squarespace) and optimized for both desktop and mobile devices.
 
 ## 🌐 Live Website
 
